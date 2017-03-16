@@ -35,8 +35,6 @@ public class Main {
         secondLayerProcs[0] = new SecondLayerProcess(7000, 0);
         secondLayerProcs[1] = new SecondLayerProcess(7001, 1);
 
-        System.out.println("Test commit");
-
     }
 
 }
